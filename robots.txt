@@ -1,0 +1,3 @@
+Sitemap: https://foreverskyin.tw/sitemap.xml
+
+User-agent: *

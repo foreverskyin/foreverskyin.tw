@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://foreverskyin.tw</id>
+    <title>ForeverSkyin</title>
+    <updated>2022-02-02T07:18:30.866Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://foreverskyin.tw"/>
+    <link rel="self" href="https://foreverskyin.tw/feed.atom"/>
+    <subtitle>測試工程師，平時喜歡打電動、看書、散步和練習冥想。這邊紀錄了我的學習與開發筆記，歡迎交流分享:)</subtitle>
+    <entry>
+        <title type="html"><![CDATA[First Page, 第一個頁面]]></title>
+        <id>https://foreverskyin.tw/2021/12/26/first-page/</id>
+        <link href="https://foreverskyin.tw/2021/12/26/first-page/">
+        </link>
+        <updated>2021-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第一個頁面, 測試訊息]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二個頁面]]></title>
+        <id>https://foreverskyin.tw/2022/01/27/second-page/</id>
+        <link href="https://foreverskyin.tw/2022/01/27/second-page/">
+        </link>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第二個頁面, 測試訊息]]></summary>
+    </entry>
+</feed>

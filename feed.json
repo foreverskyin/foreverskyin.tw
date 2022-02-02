@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ForeverSkyin",
+    "home_page_url": "https://foreverskyin.tw",
+    "feed_url": "https://foreverskyin.tw/feed.json",
+    "description": "測試工程師，平時喜歡打電動、看書、散步和練習冥想。這邊紀錄了我的學習與開發筆記，歡迎交流分享:)",
+    "items": [
+        {
+            "id": "https://foreverskyin.tw/2021/12/26/first-page/",
+            "url": "https://foreverskyin.tw/2021/12/26/first-page/",
+            "title": "First Page, 第一個頁面",
+            "summary": "第一個頁面, 測試訊息",
+            "image": "https://i.picsum.photos/id/109/350/165.jpg?hmac=qHo30YeGw1iyybYp2TWjw0FQ5-ht9rufKbHa9LkC-S4",
+            "date_modified": "2021-12-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://foreverskyin.tw/2022/01/27/second-page/",
+            "url": "https://foreverskyin.tw/2022/01/27/second-page/",
+            "title": "第二個頁面",
+            "summary": "第二個頁面, 測試訊息",
+            "image": "https://i.picsum.photos/id/109/350/165.jpg?hmac=qHo30YeGw1iyybYp2TWjw0FQ5-ht9rufKbHa9LkC-S4",
+            "date_modified": "2022-01-27T00:00:00.000Z"
+        }
+    ]
+}
